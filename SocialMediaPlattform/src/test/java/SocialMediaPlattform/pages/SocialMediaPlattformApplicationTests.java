@@ -1,4 +1,4 @@
-package com.example.SocialMediaPlattform;
+package SocialMediaPlattform.pages;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

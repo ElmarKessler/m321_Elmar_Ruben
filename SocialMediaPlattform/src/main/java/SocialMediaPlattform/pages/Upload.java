@@ -1,13 +1,13 @@
-package com.example.SocialMediaPlattform;
+package SocialMediaPlattform.pages;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Login {
+public class Upload {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Login.class, args);
+		SpringApplication.run(Upload.class, args);
 	}
 
 }
