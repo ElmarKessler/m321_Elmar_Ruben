@@ -1,0 +1,10 @@
+
+c
+java:S1192&"HDefine a constant instead of duplicating this literal "user_id" 6 times.(ðýëÒýÿÿÿÿ
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÓ¬Šúÿÿÿÿ
+k	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™½ñÕûÿÿÿÿ
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñºÄï
+M
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+h
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‹¨¯¿

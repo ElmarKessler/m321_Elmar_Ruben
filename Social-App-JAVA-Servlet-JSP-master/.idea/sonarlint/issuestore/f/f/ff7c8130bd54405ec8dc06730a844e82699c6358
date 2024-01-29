@@ -1,0 +1,36 @@
+
+h
+java:S1192?"FDefine a constant instead of duplicating this literal "image" 3 times.(¯´¦Ûþÿÿÿÿ8Ì™Ç¬Ó1
+g
+java:S1192<"JDefine a constant instead of duplicating this literal "last_name" 3 times.(ÂÍâ8Ì™Ç¬Ó1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "password" 4 times.(­‚™åýÿÿÿÿ8Ì™Ç¬Ó1
+j
+java:S1192:"HDefine a constant instead of duplicating this literal "user_id" 3 times.(¡ìò­ýÿÿÿÿ8Ì™Ç¬Ó1
+g
+java:S1192;"KDefine a constant instead of duplicating this literal "first_name" 3 times.(‚™Œ 8Í™Ç¬Ó1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "email" 4 times.(­‚™åýÿÿÿÿ8Í™Ç¬Ó1
+Q
+java:S1066"/Merge this if statement with the enclosing one.(­‚™åýÿÿÿÿ8Í™Ç¬Ó1
+
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Û«€»8Í™Ç¬Ó1
+m	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÒ÷8Í™Ç¬Ó1
+q
+java:S2095q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÍµÍåøÿÿÿÿ8´šÇ¬Ó1
+m
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¼ô‡8´šÇ¬Ó1
+q
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Œ¢©àüÿÿÿÿ8´šÇ¬Ó1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¡ ä¾ÿÿÿÿÿ8µšÇ¬Ó1
+l
+java:S2095i"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(òŸûì8µšÇ¬Ó1
+l
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Â³¬Ý8µšÇ¬Ó1
+q
+java:S2095X"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ö‰Ê°ûÿÿÿÿ8µšÇ¬Ó1
+q
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïšð»ýÿÿÿÿ8µšÇ¬Ó1
+
+java:S4165"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(ˆáŒƒ8¶šÇ¬Ó1
